@@ -1,7 +1,6 @@
-# import requests
+
 from twilio.rest import Client
 import os
-
 
 # parameters = {
 #     "lat": -1.292066,
